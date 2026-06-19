@@ -1,7 +1,6 @@
 # Certifications
 Here my some Certifications which i gain in my current Academics 
 
-<img width="1085" height="842" alt="image" src="https://github.com/user-attachments/assets/4639c9de-a9f1-4072-90b3-4522923e4737" />
 <img width="599" height="846" alt="Screenshot 2026-05-17 111321" src="https://github.com/user-attachments/assets/54aa73b1-b93d-46ac-87e1-523aab255fae" />
 <img width="596" height="847" alt="Screenshot 2026-05-17 111354" src="https://github.com/user-attachments/assets/d401b169-f2db-4df4-b24e-903709b74789" />
 <img width="599" height="848" alt="Screenshot 2026-05-17 111429" src="https://github.com/user-attachments/assets/63afc22c-5170-45ed-bc5a-8ce057d89db9" />
