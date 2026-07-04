@@ -9,6 +9,8 @@ Here my some Certifications which i gain in my current Academics
 
 <img width="599" height="846" alt="Screenshot 2026-05-17 111604" src="https://github.com/user-attachments/assets/0095d21e-e56d-442b-a459-ab4c55ba7512" />
 <img width="599" height="841" alt="Screenshot 2026-05-17 111702" src="https://github.com/user-attachments/assets/dec98763-d72e-4cd1-afdd-81dcd7512b17" />
+<img width="1727" height="1276" alt="image" src="https://github.com/user-attachments/assets/cdd02fa7-34f0-42b4-8e23-d7e89bec06dc" />
+
 
 <img width="1078" height="764" alt="image" src="https://github.com/user-attachments/assets/80e2ea9e-f2ab-4fd9-9bce-f71d51aa56ad" />
 <img width="1161" height="821" alt="image" src="https://github.com/user-attachments/assets/5c909aed-3930-4b26-a99d-ca3a032caa9d" />
